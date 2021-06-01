@@ -1,4 +1,4 @@
-### HI! I'm Mercy 👋🏾
+### Hi! I'm Mercy 👋🏾
 
 
 
