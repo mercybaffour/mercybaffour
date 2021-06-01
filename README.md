@@ -9,6 +9,7 @@
 - 💬 Ask me about ...Anything!
 - 📫 How to reach me: ...[LinkedIn](https://linkedin.com/in/mercybaffour)
 - 😄 Pronouns: ...She|Her
-- ⚡ Fun fact: ...I'm --> ![image](https://user-images.githubusercontent.com/16559895/120345973-f4b9d800-c2c8-11eb-99aa-760235be0f8e.png)
+- ⚡ Fun fact: ...I'm --> ![image](https://user-images.githubusercontent.com/16559895/120347513-5890d080-c2ca-11eb-9b8f-1dc106dfaa3b.png)
+
 
 
