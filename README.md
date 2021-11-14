@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on a new passion project!
-- 🌱 I’m currently learning Java & React.js
-- 👯 I’m looking to collaborate on React.js
-- 🤔 I’m looking for help with backend and deployment
+- 🔭 I’m currently working as an application developer!
+- 🌱 I’m currently learning Java and Python 
+- 👯 I’m looking to collaborate on data engineering related projects!
+- 🤔 I’m looking for help with database architecture.
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mercybaffour)
 - 😄 Pronouns: She|Her
