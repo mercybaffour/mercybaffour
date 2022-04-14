@@ -1,11 +1,9 @@
 ### Hi! I'm Mercy 👋🏾
 
 
-
-- 🔭 I’m currently working as an application developer!
 - 🌱 I’m currently learning Python, SQL, & Java
-- 👯 I’m looking to collaborate on cybersecurity and/or data engineering related projects!
-- 🤔 I’m looking for help with data architecture.
+- 👯 I’m looking to collaborate on cybersecurity and/or cloud related projects!
+- 🤔 I’m looking for help with automation and application architecture.
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mercybaffour)
 - 😄 Pronouns: She|Her
